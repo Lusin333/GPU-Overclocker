@@ -3,6 +3,6 @@ Increasing the performance of your graphics card becomes a simple task with the 
 
 Introducing the GPU Overclocker! Overclock your graphics card and squeeze more performance out of your crappy computer!
 
-Here is a video tutorial on using the GPU Overclocker: https://youtu.be/Lzg2tZ4UDVI
+Lusin's video tutorial on using the GPU Overclocker: https://youtu.be/Lzg2tZ4UDVI
 
 ![alt text](https://raw.githubusercontent.com/Lusin333/GPU-Overclocker/master/GPU%20Overclocker%20Icon%20-%20Lusin.png)
