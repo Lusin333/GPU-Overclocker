@@ -6,3 +6,4 @@ Introducing the GPU Overclocker! Overclock your graphics card and squeeze more p
 Lusin's video tutorial on using the GPU Overclocker: https://youtu.be/Lzg2tZ4UDVI
 
 ![alt text](https://raw.githubusercontent.com/Lusin333/GPU-Overclocker/master/GPU%20Overclocker%20Icon%20-%20Lusin.png)
+![alt text](https://raw.githubusercontent.com/Lusin333/GPU-Overclocker/master/GPU%20Overclocker%20Preview%20Pic.png)
