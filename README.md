@@ -24,3 +24,7 @@ Don't worry about that anymore with the GPU Overclocker! Overclock your graphics
 * 🐦 [Lusin's Twitter](https://Twitter.com/Lusin333)
 * 📸 [Lusin's Instagram](https://www.instagram.com/Lusin.333)
 * 👩‍💻 [Lusin's Github](https://Github.com/Lusin333)
+
+***
+
+![GPU Overclocker visitor badge](https://visitor-badge.glitch.me/badge?page_id=Lusin.GPU-Overclocker-visitor-badge&left_text=GPU%20Overclocker%20Visitors)
