@@ -5,7 +5,7 @@
 * Is your PC not playing those games at a high enough FPS?
 * Worst of all, are you getting bullied because your computer isn't powerful enough to play the games you want?
 
-Don't worry about that anymore with the GPU Overclocker! Overclock your graphics card and get more performance out of your crappy computer!
+**With the GPU Overclocker, you don't need to worry about that anymore!  Overclock your graphics card and get more performance out of your crappy computer!**
 
 
 ***
@@ -13,6 +13,7 @@ Don't worry about that anymore with the GPU Overclocker! Overclock your graphics
 ## Download
 **[GPU Overclocker DOWNLOAD](https://github.com/Lusin333/GPU-Overclocker/releases/download/2022-06-26/GPU.Overclocker.exe)**
 
+## Video Tutorial
 **[GPU Overclocker tutorial](https://youtu.be/Lzg2tZ4UDVI)**
 
 ## Preview Image
