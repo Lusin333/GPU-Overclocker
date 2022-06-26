@@ -1,9 +1,9 @@
 # GPU Overclocker
 
 ## Synopsis
-* Does your graphics card suck?
-* Is your PC not playing those games at a high enough FPS?
-* Worst of all, are you getting bullied because your computer isn't powerful enough to play the games you want?
+* *Does your graphics card suck?*
+* *Is your PC not playing those games at a high enough FPS?*
+* *Worst of all, are you getting bullied because your computer isn't powerful enough to play the games you want?*
 
 **With the GPU Overclocker, you don't need to worry about that anymore!  Overclock your graphics card and get more performance out of your crappy computer!**
 
