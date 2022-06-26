@@ -8,8 +8,6 @@
 **With the GPU Overclocker, you don't need to worry about that anymore!  Overclock your graphics card and get more performance out of your crappy computer!**
 
 
-***
-
 ## Download
 **[GPU Overclocker DOWNLOAD](https://github.com/Lusin333/GPU-Overclocker/releases/download/2022-06-26/GPU.Overclocker.exe)**
 
